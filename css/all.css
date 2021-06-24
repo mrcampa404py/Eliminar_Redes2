@@ -21,3 +21,13 @@ h1.blast-root {
     line-height: 8.7rem;
     position: relative;
 }
+
+table.campa{
+    text-align: left; 
+    border: 1px solid black;
+}
+
+td, tr, th{
+    padding: 10px; 
+    border: 1px solid black;
+}
